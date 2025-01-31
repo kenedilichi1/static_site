@@ -3,7 +3,7 @@ name: Quickstart deployment
 on:
   push:
     paths:
-      - "index.html"
+      - "public/index.html"
     branches:
       - main
 
